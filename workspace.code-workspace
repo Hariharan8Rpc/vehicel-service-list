@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Vehicle Services Management System Project\\VSMS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pomato"
+	}
+}
